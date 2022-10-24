@@ -18,7 +18,7 @@ Start building your own `class`es!
 
 ### Assignment Overview
 
-Follow the instructions in `build_library.py` (they will also direct you to write code in `library.py`) to complete this challenge. 
+Follow the instructions in `build_library.py` (they will also direct you to write code in `library.py`) to complete this challenge.
 
 ---
 
